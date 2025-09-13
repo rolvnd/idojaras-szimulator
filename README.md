@@ -1,7 +1,7 @@
 Hallgató: Tóth Roland
 Neptun kód: SKE7GX
 
-Feladat leírása: Egyszerű időjárás-szimulátor, amely véletlen adatokat generál hőmérsékletre, esőszintre és időjárás típusra. Megjeleníti az adatokat szövegesen és grafikus ikonokkal. Gombokkal válthatsz várost, és automatikusan frissül.
+Feladat leírása: Egyszerű időjárás-szimulátor, amely véletlen adatokat generál hőmérsékletre, esőszintre és időjárás típusra. Megjeleníti az adatokat szövegesen és grafikus ikonokkal. Gombokkal véletlenszerűen választható a város, és automatikusan frissül.
 
 Modulok és a modulokban használt függvények:
 - datetime: datetime.now
